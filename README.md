@@ -25,6 +25,8 @@ You can simply run `npm test`
 
 - It makes error handling more predictable
 
+- Using functional style codeing also makes iterative testing / TDD more friendly
+
 ## Assumptions
 - Originally I was thinking terms were years - until I played around further with the bendigo bank calculator I found that can also include months. Therefore, I made some quick changes to get it to work for years + months.
 
